@@ -1,0 +1,8 @@
+Financial Analysis
+Total Months86
+Total Amount22564198
+Average-8311.105882352942
+Mar-13
+1862002
+Dec-10
+-1825558
